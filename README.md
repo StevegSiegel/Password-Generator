@@ -2,7 +2,7 @@
 
 ## Description
 
-We were tasked with using javascript to create a random password generator. We were provided with already completed html and css. So all we had to do was add the javascript neccesary to provide the required functionality. When the user loads the page they're presented with a series of questions to determine the desired characteristics of their new password. They're able to choose the length of the password between 8 and 128 characters. Then they're able to choose whether or not they would like to include uppercase letters, lowercase letters, numbers, or special symbols in their newly created password. Once the user has answered the questions and chosen they're presented with a randomly generated password matching their desired characteristics. 
+We were tasked with using javascript to create a random password generator. We were provided with already completed html and css. So all we had to do was add the javascript neccesary to provide the required functionality. When the user loads the page they're presented with a series of questions to determine the desired characteristics of their new password. They're able to choose the length of the password between 8 and 128 characters. Then they're able to choose whether or not they would like to include uppercase letters, lowercase letters, numbers, or special symbols in their newly created password. Once the user has answered the questions and chosen they're presented with a randomly generated password matching their desired characteristics. (p.s. for some reason the password wont generate the first time the page loads. once you navigate out of the prompt, and click the "Generate Password" button the generator will behave as intended.)
 
 ## License
 
