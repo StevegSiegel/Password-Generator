@@ -18,4 +18,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 [Link](https://stevegsiegel.github.io/Password-Generator/)
-![Screenshot](screenshot\Screenshot (4).png)
+![screenshot](./screenshot/Screenshot.png)
